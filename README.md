@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 
 ![Visitor Count](https://profile-counter.glitch.me/derya26/count.svg)
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=GITHUB-USERNAME&label=Profile%20views&color=ce9927&style=flat" alt="GITHUB-USERNAME" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=derya26&label=Profile%20views&color=ce9927&style=flat" alt="derya26" /> </p>
 
